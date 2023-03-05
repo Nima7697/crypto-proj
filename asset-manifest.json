@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crypto-proj/static/css/main.96a33ada.css",
-    "main.js": "/crypto-proj/static/js/main.a839443d.js",
+    "main.js": "/crypto-proj/static/js/main.f69e15ad.js",
     "static/media/shuttle.jpg": "/crypto-proj/static/media/shuttle.ff26719871fbc1454245.jpg",
     "static/media/eisenhaver.png": "/crypto-proj/static/media/eisenhaver.d693d28524f95473a79d.png",
     "static/media/paypal.png": "/crypto-proj/static/media/paypal.8e055bed5b8409d2da14.png",
@@ -9,10 +9,10 @@
     "static/media/news.png": "/crypto-proj/static/media/news.923b447ab1bafe4d218a.png",
     "index.html": "/crypto-proj/index.html",
     "main.96a33ada.css.map": "/crypto-proj/static/css/main.96a33ada.css.map",
-    "main.a839443d.js.map": "/crypto-proj/static/js/main.a839443d.js.map"
+    "main.f69e15ad.js.map": "/crypto-proj/static/js/main.f69e15ad.js.map"
   },
   "entrypoints": [
     "static/css/main.96a33ada.css",
-    "static/js/main.a839443d.js"
+    "static/js/main.f69e15ad.js"
   ]
 }
